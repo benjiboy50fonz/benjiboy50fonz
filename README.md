@@ -12,7 +12,7 @@ I'm always looking for an adventure, a challenge, or a cool new Linux OS!
 
 ## More about me:
 
-I'm a college freshman studying computer engineering with a specialization in embedded systems. Although programming and developing software is my passion, I also greatly enjoy electronics and robotics! I am currently attending Michigan Technological University!
+I'm a college freshman studying computer engineering with a specialization in embedded systems. I also have a minor in mathematical sciences. Although programming and developing software is my passion, I also greatly enjoy electronics and robotics! I am currently attending Michigan Technological University!
 
 Although I spend a lot of time staring at a screen, I do enjoy getting outdoors and doing activites such as running, shooting, skiing, and snowmobiling whenever I can!
 
