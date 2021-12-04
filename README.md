@@ -6,9 +6,10 @@ I also enjoy developing and developing in Linux systems, primarily **Arch**, Man
 
 I'm always looking for an adventure, a challenge, or a cool new Linux OS!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjiboy50fonz&show_icons=true&theme=react)
+<a href="https://www.linkedin.com/in/ben-bistline-6a20bb212/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ben%20Bistline-blue?style=plastic"></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benjiboy50fonz&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=benjiboy50fonz&show_icons=true&theme=react" height="200em" align="left"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjiboy50fonz&layout=compact&theme=react" height="200em"/>
 
 ## More about me:
 
