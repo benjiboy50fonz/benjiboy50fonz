@@ -8,8 +8,7 @@ I'm always looking for an adventure, a challenge, or a cool new Linux OS!
 
 <a href="https://www.linkedin.com/in/ben-bistline-6a20bb212/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ben%20Bistline-blue?style=plastic"></a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=benjiboy50fonz&show_icons=true&theme=react" height="200em" align="left"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjiboy50fonz&layout=compact&theme=react" height="200em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=benjiboy50fonz&show_icons=true&theme=react" height="200em" align="left"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjiboy50fonz&layout=compact&theme=react" height="200em"/>
 
 ## More about me:
 
